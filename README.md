@@ -2,37 +2,39 @@
 
 📊 **Professional Data Analyst** | Transforming raw data into actionable insights
 
+![Data Analysis GIF](https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif)
+
 ## 🔧 Technical Skills
-- **Data Visualization**: Power BI, Tableau, ggplot2
-- **Programming**: SQL, R, Python (Pandas, NumPy)
-- **Statistical Analysis**: SPSS, Excel (Advanced)
-- **Database**: MySQL, PostgreSQL
-- **Version Control**: Git, GitHub
+
+![SQL GIF](https://media.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif) **SQL**  
+![Power BI GIF](https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif) **Power BI**  
+![Python GIF](https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif) **Python**  
+![R GIF](https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif) **R**  
+![Excel GIF](https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif) **Excel**  
 
 ## 🚀 Featured Projects
-### 1. [Project Name] - [Brief Description]
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_project-blue?logo=github)](link-to-repo)
-- Analyzed [dataset] to uncover [key insight]
-- Built interactive dashboard in Power BI showing [results]
-- Implemented [specific technique] to improve [metric] by X%
 
-### 2. [Project Name] - [Brief Description]
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_project-blue?logo=github)](link-to-repo)
-- Developed predictive model using R to forecast [outcome]
-- Cleaned and transformed dataset of [size] using SQL
-- Achieved [specific result] with [metric] improvement
+### 1. Sales Performance Dashboard
+![Dashboard GIF](https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif)  
+- Built interactive Power BI dashboard tracking KPIs
+- Increased sales visibility by 40%
+- [View Project](link)
+
+### 2. Customer Segmentation Analysis
+![Clustering GIF](https://media.giphy.com/media/3o7TKsQ8gqVlQFZ8gE/giphy.gif)  
+- Performed RFM analysis using R
+- Identified 5 key customer segments
+- [View Project](link)
 
 ## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true)
 
 ## 📫 Let's Connect
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](your-linkedin-url)
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:your-email)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](your-portfolio-url)
 
-## 💡 Currently Learning
-- Machine Learning with Python
-- Advanced Data Visualization Techniques
-- Cloud Data Platforms (AWS, Azure)
+![Data Visualization GIF](https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif)
